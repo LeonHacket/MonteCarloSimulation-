@@ -18,9 +18,9 @@ $$
 
 where
 
-- \(S_t\) is the stock price
-- \(\sigma\) is volatility
-- \(W_t\) is Brownian motion
+- \($$S_t$$\) is the stock price
+- \($$\sigma$$\) is volatility
+- \($$W_t$$\) is Brownian motion
 
 ---
 

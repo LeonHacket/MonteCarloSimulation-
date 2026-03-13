@@ -69,7 +69,7 @@ The following figure shows the historical closing price of Apple stock over time
 
 This time series provides the empirical data used to estimate the model parameters, particularly the volatility of returns.
 
-![Apple Stock Price](plots/apple_price.png)
+![Apple Stock Price](apple_price.png)
 
 ---
 
@@ -100,7 +100,7 @@ The results of both approaches are compared below.
 
 The following plot compares the option prices obtained via Monte Carlo simulation with the analytical Black–Scholes solution for several strike prices.
 
-![Option Price Comparison](plots/Rplots.png)
+![Option Price Comparison](Rplots.png)
 
 The close agreement between both curves confirms that the Monte Carlo simulation correctly reproduces the theoretical option prices.
 
@@ -112,6 +112,6 @@ Monte Carlo pricing relies on the law of large numbers: as the number of simulat
 
 The following plot illustrates this convergence behavior.
 
-![Monte Carlo Convergence](plots/convergence_multiple_K.png)
+![Monte Carlo Convergence](convergence_multiple_K.png)
 
 As expected, the Monte Carlo estimate approaches the analytical Black–Scholes price as the number of simulated paths increases, demonstrating the consistency of the numerical method.

@@ -79,7 +79,7 @@ Financial models such as the Black–Scholes framework assume that log-returns f
 
 To investigate this assumption, the distribution of daily returns was computed and visualized.
 
-![Distribution of Returns](plots/returns_histogram.png)
+![Distribution of Returns](returns_histogram.png)
 
 While the distribution is roughly symmetric and centered around zero, financial return data often exhibit heavier tails than the normal distribution, which is a well-known limitation of the classical Black–Scholes model.
 

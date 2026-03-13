@@ -100,7 +100,7 @@ The results of both approaches are compared below.
 
 The following plot compares the option prices obtained via Monte Carlo simulation with the analytical Black–Scholes solution for several strike prices.
 
-![Option Price Comparison](Rplots.png)
+![Option Price Comparison](Rplots.pdf)
 
 The close agreement between both curves confirms that the Monte Carlo simulation correctly reproduces the theoretical option prices.
 
